@@ -1,0 +1,9 @@
+
+X
+java:S1854$";Remove this useless assignment to local variable "message".(¹’¾ı8ğÀÏı°1
+W
+java:S1854"";Remove this useless assignment to local variable "appUser".(ûºúu8òÀÏı°1
+H
+java:S1481"",Remove this unused "appUser" local variable.(ûºúu8ûÀÏı°1
+I
+java:S1481$",Remove this unused "message" local variable.(¹’¾ı8üÀÏı°1

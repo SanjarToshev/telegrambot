@@ -1,0 +1,15 @@
+2023-10-04 21:53:33 DEBUG TelegramBot:32 - Hello Mello
+2023-10-04 21:58:16 DEBUG TelegramBot:33 - Salomalykum soxtalar
+2023-10-04 22:05:04 DEBUG TelegramBot:35 - /start
+2023-10-04 22:05:04 ERROR TelegramBot:48 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-10-06 12:20:42 DEBUG UpdateProducerImpl:13 - Hello 2
+2023-10-06 12:21:37 ERROR UpdateController:40 - Unsupported message type is received: Update(updateId=600011451, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=10, from=User(id=424886827, firstName=Sanjar | Java developer, isBot=false, lastName=null, userName=sanjar_toshev_97, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1696576841, chat=Chat(id=424886827, type=private, title=null, firstName=Sanjar | Java developer, lastName=null, userName=sanjar_toshev_97, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Hello 22, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1696576895, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-10-06 12:23:13 DEBUG UpdateProducerImpl:13 - 
+2023-10-06 12:23:33 DEBUG UpdateProducerImpl:13 - 
+2023-10-06 12:25:07 DEBUG UpdateProducerImpl:13 - 
+2023-10-06 12:25:16 DEBUG UpdateProducerImpl:13 - 
+2023-10-07 20:36:00 DEBUG UpdateProducerImpl:20 - Hello1
+2023-10-08 18:15:19 DEBUG UpdateProducerImpl:20 - Hello
+2023-10-08 18:22:10 DEBUG UpdateProducerImpl:20 - Nima bulyabdi ?
+2023-10-08 20:03:33 DEBUG UpdateProducerImpl:20 - Salom
+2023-10-08 20:05:31 DEBUG UpdateProducerImpl:20 - Hi
